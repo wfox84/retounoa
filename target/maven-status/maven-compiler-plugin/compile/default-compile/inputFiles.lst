@@ -1,0 +1,6 @@
+/home/masterKomodoro/NetBeansProjects/retouno/src/main/java/com/cuatroa/retouno/RetounoApplication.java
+/home/masterKomodoro/NetBeansProjects/retouno/src/main/java/com/cuatroa/retouno/model/User.java
+/home/masterKomodoro/NetBeansProjects/retouno/src/main/java/com/cuatroa/retouno/controller/UserController.java
+/home/masterKomodoro/NetBeansProjects/retouno/src/main/java/com/cuatroa/retouno/service/UserService.java
+/home/masterKomodoro/NetBeansProjects/retouno/src/main/java/com/cuatroa/retouno/repository/UserCrudRepository.java
+/home/masterKomodoro/NetBeansProjects/retouno/src/main/java/com/cuatroa/retouno/repository/crud/UserRepository.java
